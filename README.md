@@ -21,6 +21,7 @@ See: [here](https://en.wikipedia.org/wiki/Barnsley_fern)
 python3 barnsleyFern [nbpoints]
 ```
 - Default nbpoints: 100000
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/barnsleyFern.png)
 
 ### Dragon curve
@@ -29,6 +30,7 @@ See: [here](https://en.wikipedia.org/wiki/Dragon_curve)
 python3 dragonCurve [nbpoints]
 ```
 - Default nbpoints: 50000
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/dragonCurve.png)
 
 ### Koch snowflake
@@ -37,6 +39,7 @@ See: [here](https://en.wikipedia.org/wiki/Koch_snowflake)
 python3 kochSnowflake [order]
 ```
 - Default order: 4
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/kochSnowflake.png)
 
 ### Pythagoras tree
@@ -46,6 +49,7 @@ python3 pythagorasTree [order] [angle]
 ```
 - Default order: 4
 - Default angle: 3
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/pythagorasTree.png)
 
 ### Sierpinsky carpet
@@ -54,6 +58,7 @@ See: [here](https://en.wikipedia.org/wiki/Sierpinski_carpet)
 python3 sierpinskyCarpet [order]
 ```
 - Default order: 4
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/sierpinskyCarpet.png)
 
 ### Sierpinsky triangle
@@ -62,11 +67,13 @@ See: [here](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle)
 python3 sierpinskyTriangle1 [order]
 ```
 - Default order: 5
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/sierpinskyTriangle1.png)
 ```bash
 python3 sierpinskyTriangle2 [nbpoints]
 ```
 - Default nbpoints: 10000
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/sierpinskyTriangle2.png)
 
 ### Vicsek fractal
@@ -75,6 +82,7 @@ See: [here](https://en.wikipedia.org/wiki/Vicsek_fractal)
 python3 vicsekFractal [order]
 ```
 Default order: 4
+
 ![](https://github.com/Quentin18/Matplotlib-fractals/blob/master/img/vicsekFractal.png)
 
 ## Contact
